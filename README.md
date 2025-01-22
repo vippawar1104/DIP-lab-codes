@@ -1,4 +1,4 @@
-# Digital Image Processing (DIP) Laboratory
+# Digital Image Processing (DIP) Lab
 
 ## Overview
 Digital Image Processing (DIP) involves analyzing, enhancing, and transforming images using computational techniques. This repository contains MATLAB implementations of fundamental DIP concepts and algorithms, including histogram equalization, grayscale conversion, and image filtering.

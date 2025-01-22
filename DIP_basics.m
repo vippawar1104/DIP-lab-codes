@@ -63,3 +63,10 @@ title("Green Image");
 subplot(2, 3, 6);
 imshow(blue_image);
 title("Blue Image");
+
+% Empty spaces for pasting the result images
+% You can paste your result images here for visualization or further processing
+% For example, paste your images like this:
+% resultImage1 = imread('/Users/vipulpawar/Desktop/Lab-1(Dip basics)');
+
+% imshow(resultImage1); % Paste result image 1
